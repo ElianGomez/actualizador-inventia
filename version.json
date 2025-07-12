@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "titulo": "Actualizacion inicial",
+  "version": "1.0.1",
+  "titulo": "Actualizacion en Control de Versiones",
   "size": "71.5 MB",
   "fecha": "07/12/2025",
-  "changelog": "• Actualizacion inicial para el sistema",
-  "url": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.0.0/Inventia_v1.0.0.zip"
+  "changelog": "• Modificacion para desplazar ventana",
+  "url": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.0.1/Inventia_v1.0.1.zip"
 }
