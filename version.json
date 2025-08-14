@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "titulo": "Correcion de error",
-  "size": "71.52 MB",
+  "size": "79.3 MB",
   "fecha": "04/08/2025",
-  "changelog": "• Se ha removido un mensage de advertencia en el proceso de valoracion de inventario",
-  "url": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.1.4/Inventia_v1.1.4.zip"
+  "changelog": "• Cambio de titulo de los formularios, nuevos Datasets, nuevos Reportes y nuevo explorador de archivo en la orden de compra",
+  "url": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.1.5/Inventia_v1.1.5.zip"
 }
