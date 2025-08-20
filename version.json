@@ -1,8 +1,8 @@
 {
-  "version": "1.2.8",
-  "titulo": "Correccion de conexion a SignalR",
+  "version": "1.2.9",
+  "titulo": "Modificaciones en dependencias del producto",
   "size": "79.3 MB",
-  "fecha": "19/08/2025",
-  "changelog": "• Correcion en la conexion de SignalR con la IP del servidor",
-  "url": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.8/Inventia_v1.2.8.zip"
+  "fecha": "20/08/2025",
+  "changelog": "• Modificacion en la ventana secundaria del producto y en la imagen de producto en el formulario",
+  "url": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.9/Inventia_v1.2.9.zip"
 }
