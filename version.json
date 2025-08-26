@@ -4,5 +4,8 @@
   "size": "79.3 MB",
   "fecha": "20/08/2025",
   "changelog": "• Modificacion en la ventana secundaria del producto y en la imagen de producto en el formulario",
-  "url": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.9/Inventia_v1.2.9.zip"
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.9/Inventia_v1.2.9.zip",
+  "ejecutable": "INVENTIA.exe",
+  "lanzarArgs": "",
+  "preKill": ["INVENTIA"]
 }
