@@ -1,10 +1,10 @@
 {
-  "version": "1.2.10",
+  "version": "1.2.11",
   "titulo": "Modificacion en la actualizaciones y correciones",
   "size": "79.3 MB",
   "fecha": "29/08/2025",
   "changelog": "• Modificacion en la parte de las actualizaciones y nuevo TextTrimming en el DashBoard",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.10/Inventia_v1.2.10.zip",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.11/Inventia_v1.2.11.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
