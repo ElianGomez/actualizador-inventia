@@ -1,10 +1,10 @@
 {
-  "version": "1.2.9",
-  "titulo": "Modificaciones en dependencias del producto",
+  "version": "1.2.10",
+  "titulo": "Modificacion en la actualizaciones y correciones",
   "size": "79.3 MB",
-  "fecha": "20/08/2025",
-  "changelog": "• Modificacion en la ventana secundaria del producto y en la imagen de producto en el formulario",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.9/Inventia_v1.2.9.zip",
+  "fecha": "29/08/2025",
+  "changelog": "• Modificacion en la parte de las actualizaciones y nuevo TextTrimming en el DashBoard",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.10/Inventia_v1.2.10.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
