@@ -1,10 +1,10 @@
 {
-  "version": "1.2.12",
-  "titulo": "Modificacion en la actualizaciones y correciones",
+  "version": "1.2.13",
+  "titulo": "Actualizacion de paquetes",
   "size": "79.3 MB",
-  "fecha": "30/08/2025",
-  "changelog": "• Modificacion en la parte de las actualizaciones y nuevo TextTrimming en el DashBoard",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.12/Inventia_v1.2.12.zip",
+  "fecha": "01/09/2025",
+  "changelog": "• Se ha actualizado el Paquete llamado Centro de notificaciones del sistema",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.13/Inventia_v1.2.13.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
