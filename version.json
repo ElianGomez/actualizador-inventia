@@ -1,10 +1,10 @@
 {
-  "version": "1.2.13",
-  "titulo": "Actualizacion de paquetes",
+  "version": "1.3.0",
+  "titulo": "Nuevo Formulario y correccion de errores",
   "size": "79.3 MB",
-  "fecha": "01/09/2025",
-  "changelog": "• Se ha actualizado el Paquete llamado Centro de notificaciones del sistema",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.13/Inventia_v1.2.13.zip",
+  "fecha": "03/09/2025",
+  "changelog": "• Se ha agregado un nuevo formulario de asignacion y se ha corregido un error de los roles de usuario",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.3.0/Inventia_v1.3.0.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
