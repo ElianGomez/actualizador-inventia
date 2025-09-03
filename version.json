@@ -4,7 +4,7 @@
   "size": "79.3 MB",
   "fecha": "03/09/2025",
   "changelog": "• Se ha agregado un nuevo formulario de asignacion y se ha corregido un error de los roles de usuario",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.3.0/Inventia_v1.3.0.zip",
+  "url": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.3.0/Inventia_v1.3.0.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
