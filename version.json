@@ -1,10 +1,10 @@
 {
   "version": "1.3.6",
-  "titulo": "Implementacion de nueva funcionalidad",
+  "titulo": "Nueva orden de campos",
   "size": "79.2 MB",
-  "fecha": "29/01/2026",
-  "changelog": "• Crear/Modificar ubicacion del producto en el formulario de producto",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.3.6/Inventia_v1.3.6.zip",
+  "fecha": "02/02/2026",
+  "changelog": "• Se cambio el orden de los campos de Almacen y Ubicacion del producto",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.3.7/Inventia_v1.3.7.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
