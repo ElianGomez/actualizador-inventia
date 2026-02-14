@@ -1,10 +1,10 @@
 {
-  "version": "1.4.8",
-  "titulo": "Nueva Consulta y correccion de errores",
+  "version": "1.4.9",
+  "titulo": "Correccion de errores",
   "size": "79.2 MB",
-  "fecha": "02/12/2026",
-  "changelog": "• Se corrigieron errores y se implemento una nueva consulta",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.4.8/Inventia_v1.4.8.zip",
+  "fecha": "02/13/2026",
+  "changelog": "• Se corrigio un error en la consulta de valor de inventario",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.4.9/Inventia_v1.4.9.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
