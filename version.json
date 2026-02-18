@@ -4,7 +4,7 @@
   "size": "79.2 MB",
   "fecha": "17/02/2026",
   "changelog": "• Correccion en la asignacion que no dejaba ver el ultimo precio si era 0",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.4.9/Inventia_v1.4.9.zip",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.4.10/Inventia_v1.4.10.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
