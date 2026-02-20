@@ -1,10 +1,10 @@
 {
-  "version": "1.4.10",
-  "titulo": "Correccion de errores",
+  "version": "1.5.0",
+  "titulo": "Nuevo flujo",
   "size": "79.2 MB",
-  "fecha": "17/02/2026",
-  "changelog": "• Correccion en la asignacion que no dejaba ver el ultimo precio si era 0",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.4.10/Inventia_v1.4.10.zip",
+  "fecha": "19/02/2026",
+  "changelog": "• Se creo un nuevo flujo para modificar el inventario de un almacen que esta en curso.",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.5.0/Inventia_v1.5.0.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
