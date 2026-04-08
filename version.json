@@ -1,10 +1,10 @@
 {
-  "version": "2.0.0",
-  "titulo": "Implementacion de reportes, nueva consulta y coreccion de errores",
+  "version": "2.0.1",
+  "titulo": "Coreccion de errores",
   "size": "79.25 MB",
   "fecha": "01/03/2026",
-  "changelog": "• Se implementaron todos los reportes y se corrigieron multiples errores",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v2.0.0/Inventia_v2.0.0.zip",
+  "changelog": "• Se ha corregido un error en la Orden de Compra",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v2.0.1/Inventia_v2.0.1.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
