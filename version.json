@@ -1,10 +1,10 @@
 {
-  "version": "2.0.1",
-  "titulo": "Coreccion de errores",
+  "version": "2.1.0",
+  "titulo": "Nuevo flujo",
   "size": "79.25 MB",
-  "fecha": "01/03/2026",
-  "changelog": "• Se ha corregido un error en la Orden de Compra",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v2.0.1/Inventia_v2.0.1.zip",
+  "fecha": "12/4/2026",
+  "changelog": "• Nuevo flujo en la orden de compra, para cargar una orden de compra ya hecha",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v2.1.0/Inventia_v2.1.0.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
