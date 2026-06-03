@@ -1,10 +1,10 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "titulo": "Correccion de erores",
   "size": "79.14 MB",
-  "fecha": "31/5/2026",
-  "changelog": "• Correccion de error que duplicaba productos en inventario y prueba de impresion",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v2.1.1/Inventia_v2.1.1.zip",
+  "fecha": "02/06/2026",
+  "changelog": "• Nueva forma de imprimir los reportes",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v2.1.2/Inventia_v2.1.2.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
