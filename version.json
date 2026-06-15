@@ -1,10 +1,10 @@
 {
-  "version": "2.2.0",
-  "titulo": "Correccion de errores y nuevo flujo",
+  "version": "3.0.0",
+  "titulo": "Correccion de errores, nuevos flujos y nuevas ventanas secundarias",
   "size": "79.10 MB",
   "fecha": "10/06/2026",
-  "changelog": "• Correccion de errores y nueva forma de cambiar clave",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v2.2.0/Inventia_v2.2.0.zip",
+  "changelog": "• Correccion de errores, nuevas ventanas secundarias para los proceso",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.0.0/Inventia_v3.0.0.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
