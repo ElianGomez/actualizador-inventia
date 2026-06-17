@@ -1,10 +1,10 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "titulo": "Modificacion de reportes",
   "size": "79.12 MB",
-  "fecha": "16/06/2026",
-  "changelog": "• Modificacion de reporte y implementacion de nuevo reporte",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.1.0/Inventia_v3.1.0.zip",
+  "fecha": "17/06/2026",
+  "changelog": "• Modificacion de reporte",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.1.1/Inventia_v3.1.1.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
