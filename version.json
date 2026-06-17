@@ -1,10 +1,10 @@
 {
-  "version": "3.0.0",
-  "titulo": "Correccion de errores, nuevos flujos y nuevas ventanas secundarias",
-  "size": "79.10 MB",
-  "fecha": "15/05/2026",
-  "changelog": "• Correccion de errores, nuevas ventanas secundarias para los proceso",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.0.0/Inventia_v3.0.0.zip",
+  "version": "3.1.0",
+  "titulo": "Modificacion de reportes",
+  "size": "79.12 MB",
+  "fecha": "16/06/2026",
+  "changelog": "• Modificacion de reporte y implementacion de nuevo reporte",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.1.0/Inventia_v3.1.0.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
