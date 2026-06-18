@@ -1,10 +1,10 @@
 {
-  "version": "3.2.0",
-  "titulo": "Implementacion remota",
+  "version": "3.1.1",
+  "titulo": "Correccion de errores",
   "size": "79.12 MB",
   "fecha": "17/06/2026",
-  "changelog": "• Implementacion para modificar la base de datos de forma remota",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.2.0/Inventia_v3.2.0.zip",
+  "changelog": "• Modificacion de reporte de solicitud de compra",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.1.1/Inventia_v3.1.1.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
