@@ -1,10 +1,10 @@
 {
-  "version": "3.1.1",
-  "titulo": "Correccion de errores",
+  "version": "3.2.0",
+  "titulo": "Nuevo flujo para control remoto",
   "size": "79.12 MB",
-  "fecha": "17/06/2026",
-  "changelog": "• Modificacion de reporte de solicitud de compra",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.1.1/Inventia_v3.1.1.zip",
+  "fecha": "20/06/2026",
+  "changelog": "• Nueva forma para afectar la base de datos de forma remota",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.2.0/Inventia_v3.2.0.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
