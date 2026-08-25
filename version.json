@@ -1,10 +1,10 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.2",
   "titulo": "Correccion de errores",
-  "size": "79.12 MB",
-  "fecha": "21/07/2026",
-  "changelog": "• Correccion de error que no permitia ver el ID del producto en el reporte de solicitud de compra",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.2.1/Inventia_v3.2.1.zip",
+  "size": "17.81 MB",
+  "fecha": "25/08/2026",
+  "changelog": "• Modificacion en la fuente del reporte de orden de compra. Nuevo ID para cada suplidor en la orden de compra",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/V3.2.2/Inventia_v3.2.2.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
