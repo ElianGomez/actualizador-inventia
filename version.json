@@ -1,10 +1,10 @@
 {
-  "version": "3.2.2",
+  "version": "3.2.3",
   "titulo": "Correccion de errores",
-  "size": "17.81 MB",
+  "size": "79.19 MB",
   "fecha": "25/08/2026",
-  "changelog": "• Modificacion en la fuente del reporte de orden de compra. Nuevo ID para cada suplidor en la orden de compra",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/V3.2.2/Inventia_v3.2.2.zip",
+  "changelog": "• Implementacion de observacion en el detalle de orden de compra y modificacion de su reporte",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.2.3/Inventia_v3.2.3.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
