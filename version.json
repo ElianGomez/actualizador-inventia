@@ -1,10 +1,10 @@
 {
-  "version": "3.2.4",
-  "titulo": "Correccion de errores",
-  "size": "79.19 MB",
-  "fecha": "07/09/2026",
-  "changelog": "• Correccion de error al contabilizar el ITEBIS y el monto total en la orden de compra.",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.2.4/Inventia_v3.2.4.zip",
+  "version": "3.2.5",
+  "titulo": "Correccion de errores y modificacion de reporte de orden de compra",
+  "size": "79.17 MB",
+  "fecha": "26/10/2026",
+  "changelog": "• Implementacion de Unidad de compra en el reporte de Orden de compra y correccion de error que no abria el contenido en PDF.",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.2.5/Inventia_v3.2.5.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
