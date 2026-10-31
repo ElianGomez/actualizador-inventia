@@ -1,10 +1,10 @@
 {
-  "version": "3.2.5",
-  "titulo": "Correccion de errores y modificacion de reporte de orden de compra",
+  "version": "3.3.0",
+  "titulo": "Nueva consulta",
   "size": "79.17 MB",
-  "fecha": "26/10/2026",
-  "changelog": "• Implementacion de Unidad de compra en el reporte de Orden de compra y correccion de error que no abria el contenido en PDF.",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.2.5/Inventia_v3.2.5.zip",
+  "fecha": "31/10/2026",
+  "changelog": "•Nueva consulta/reporte de reimpresion de orden de compra.",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.3.0/Inventia_v3.3.0.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
