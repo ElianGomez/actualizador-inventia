@@ -4,7 +4,7 @@
   "size": "79.17 MB",
   "fecha": "31/10/2026",
   "changelog": "•Nueva consulta/reporte de reimpresion de orden de compra.",
-  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.3.0/Inventia_v3.0.0.zip",
+  "descarga": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v3.3.0/Inventia_v3.3.0.zip",
   "ejecutable": "INVENTIA.exe",
   "lanzarArgs": "",
   "preKill": ["INVENTIA"]
